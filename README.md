@@ -1,4 +1,4 @@
-# hello-world
+# Machine Learning
 
 机器学习入门课程，基于李航的《统计学习方法》，以及每一章的重难点分析和例子实现。
 

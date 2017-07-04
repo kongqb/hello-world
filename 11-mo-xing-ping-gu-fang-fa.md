@@ -8,11 +8,13 @@
 
 以平方损失函数为例：
 
-                                           ![](/loss function/import.png)
+```
+                                       
+```
 
-对$$Wi$$求偏导得
+对$$Wi$$求偏导得                                                      
 
-                                                 ![](/assets/import2.png)
+                                                                              ![](/assets/import2.png)
 
 
 

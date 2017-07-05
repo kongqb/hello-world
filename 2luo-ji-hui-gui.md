@@ -4,5 +4,9 @@
 
 ![](/assets/logit=0.png)
 
+求解方法：
+
+![](/assets/L%28w%29.png)
+
 
 
